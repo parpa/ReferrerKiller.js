@@ -1,0 +1,2 @@
+# ReferrerKiller.js
+ReferrerKiller.js
