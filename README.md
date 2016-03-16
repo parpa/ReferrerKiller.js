@@ -1,5 +1,5 @@
 # About
-
+Use js prevent your browser of sending the referrer http header.
 ## Demo
 http://referrer-killer.googlecode.com/git/example.html
 
